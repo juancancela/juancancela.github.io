@@ -7,7 +7,7 @@ categories:
 - blog 
 - architecture
 - experiences
-img: 2014-04-25-slicing-techs-per-method.png
+img: 2014-04-25-slicing-techs-per-method.jpg
 thumb: arch.jpg
 ---
 
