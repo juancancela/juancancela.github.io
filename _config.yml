@@ -2,10 +2,10 @@
 
 # Site settings
 title: juancancela.WORK
-description: "Personal site of Juan Carlos Cancela"
+description: "Words and bytes from Juan Cancela"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://juancancela.work"
 
 # Build settings
 markdown: kramdown
@@ -26,16 +26,14 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
+  - title: linkedin
+    url: https://ar.linkedin.com/in/juancarloscancela
   - title: twitter
-    url: 
+    url: https://twitter.com/devtripper
   - title: instagram
-    url: 
+    url:
   - title: tumblr
-    url: 
+    url:
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -55,7 +53,7 @@ members:
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:cancela.juancarlos@gmail.com
       - title: twitter
         url: http://twitter.com/handle
   - name: Paul Jameson
@@ -98,7 +96,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Motivated, action-oriented technology enthusiast with experience on multiple industries designing cutting-edge Web API-centric applications."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
