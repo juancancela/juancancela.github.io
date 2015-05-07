@@ -1,4 +1,4 @@
-Solid. A Bootstrap theme for Jekyll.
+Personal Site
 ============
 ![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
 
