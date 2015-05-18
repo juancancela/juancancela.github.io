@@ -8,14 +8,11 @@ categories:
 img: portfolio_09.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+- arinso01.jpg
+website: http://arinso.com/
 ---
 ####Description
-Randiantech
+IT Software Support
 
 ####My Work
-Randiantech
+Local support to employees and consultants. Configuration and administration of: Windows 2003 server, company backups, wireless and wired network, user permissions, firewalls, access cards.

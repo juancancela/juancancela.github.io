@@ -15,7 +15,7 @@ client: Wonder Corp.
 website: http://www.randiantech.com
 ---
 ####Description
-TBD
+Founder of Randiantech
 
 ####My Work
-TBD
+Founder of Randiantech

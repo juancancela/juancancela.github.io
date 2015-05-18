@@ -8,14 +8,16 @@ categories:
 img: portfolio_08.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+- gl01.jpg
+- gl02.jpg
+- gl03.jpg
+website: http://www.globallogic.com
 ---
 ####Description
-Randiantech
+Engineering Technical Leader
 
 ####My Work
-Randiantech
+
+* Provide technical support to multile GL's client projects
+* Define and implement GL market project proof of concepts
+* Provide guidance on Javascript related technologies 

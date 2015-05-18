@@ -1,21 +1,17 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Universidad De Palermo"
 date:   2014-04-25 16:54:46
 author: Juan Carlos Cancela
+carousel:
+- up01.jpg
+- up02.jpg
 categories:
 - project
 img: portfolio_05.jpg
 thumb: thumb02.jpg
-carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+website: http://www.palermo.edu
 ---
-####Description
-Randiantech
 
 ####My Work
 * Researcher on Artificial Intelligence field. 

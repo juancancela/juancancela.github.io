@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Toolbox"
 date:   2014-04-25 16:54:46
 author: Juan Carlos Cancela
 categories:
@@ -8,14 +8,12 @@ categories:
 img: portfolio_07.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
+- tbx01.jpg
+- tbx02.png
 website: http://www.tbxnet.com
 ---
 ####Description
-TBD
+CTO
 
 ####My Work
 * Provided guidance designing and developing a HAL based RESTful architecture, as well as defined a new software stack conformed by Nginx + NodeJs + MongoDB

@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Cognizant"
 date:   2014-04-25 16:54:46
 author: Juan Carlos Cancela
 categories:
@@ -8,25 +8,11 @@ categories:
 img: portfolio_06.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+- cognizant01.jpg
+website: http://www.cognizant.com
 ---
 ####Description
-TBD
+Software Developer
 
 ####My Work
-* Provided guidance designing and developing a HAL based RESTful architecture, as well as defined a new software stack conformed by Nginx + NodeJs + MongoDB
-* Designed and implemented a continuous deployment pipeline using Jetbrains TeamCity and Grunt.
-* Designed and implemented a token based service to augment authentication platform.
-* Designed and implemented a TV Everywhere platform activities service used both for logging and authentication caching. Prepared and tested under high concurrency scenarios.
-* Defined and implemented a convenient Git branch strategy for all existing projects.
-* Collaborated actively migrating VCS from GitHub to BitBucket.
-* Implemented common standard libraries both for Java and NodeJs, providing standardized Date, Event, Error and Exception structures.
-* Designed and implemented real time monitoring service to control current status of third party services.
-* Collaborated actively implementing infrastructure automation using Ansible.
-* Collaborated actively defining a Scrum based project life-cycle using Atlassian JIRA platform. 
-* Implemented multiple proofs of concept using linux based dongles, Smart TV Alliance SDK, Samsung SDK and Android. 
-* Implemented and regularly updated Toolbox Development Wiki.
+Training courses on key IT technologies: Java SE 5 (basics, design patterns, Oracle RDBMS basics, JUnit, J2EE  (Servlets, JSPs, web design patterns), Oracle 10g (SQL queries, Oracle architecture, SQL*PLUS, SQL Developer), PL/SQL, JavaScript (basics), XML (DOM and xPath), CSS, Software Quality (basics of ISO 9126, CMMI, software engineering basics).
