@@ -8,6 +8,7 @@ categories:
 img: portfolio_08.jpg
 thumb: thumb02.jpg
 carousel:
+- gl04.jpg
 - gl01.jpg
 - gl02.jpg
 - gl03.jpg

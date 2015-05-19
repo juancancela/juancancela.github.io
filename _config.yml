@@ -30,11 +30,7 @@ social:
     url: https://ar.linkedin.com/in/juancarloscancela
   - title: twitter
     url: https://twitter.com/devtripper
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
-    
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
@@ -46,44 +42,23 @@ tel: +54 11 5606-5555
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:cancela.juancarlos@gmail.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-    
+personalValues:
+  - valueName: Love my family
+    valueQuote: Family is not an important thing. It's everything. -Michael Fox
+    img: family.jpg
+
+  - valueName: Love crafting software
+    valueQuote: Software is a great combination between artistry and engineering. -Bill Gates
+    img: craft.png
+
+  - valueName: Love learning more always
+    valueQuote: Live as if you were to die tomorrow. Learn as if you were to live forever. -Mahatma Gandhi
+    img: learn.jpg
+
+  - valueName: Love work with others
+    valueQuote: Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work. -Vince Lombardi
+    img: team.jpg
+
 # Clients information. Shown on Home and About pages.
 clients:
   - name: dribbble
@@ -101,5 +76,5 @@ about: "Motivated, action-oriented technology enthusiast with experience on mult
 # Testimonial content. Shown on Home and About page. 
 testimonial:
     message: "Juan is a serious and responsible professional with excellent knowledge. Reliable and friendly, which is a pleasure to share not only the working hours."
-    author: Ezequiel Doménicojuan
+    author: Ezequiel Doménico
     position: SR. Software Developer - Mercadolibre.com
