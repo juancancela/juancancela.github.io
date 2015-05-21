@@ -35,3 +35,7 @@ Advocate of Agile methodologies. Certified Scrum Master. Member of Scrum Allianc
 ### IT Software Integration Architect.*Level 3 Communications*
 As Software Integration Architect at Level 3, my primary objective is to define both an integration strategy and a service oriented architecture, to integrate current Level 3 and Global Crossing software platforms, in order to provide support to newly required business processes.
 Apart from integration tasks, I provide guidance on framework developing, as well as definition of architecture roadmap for different platforms.
+
+
+![Screenshot](http://www.userlogos.org/files/logos/siipikarja/linkedin.png)
+https://ar.linkedin.com/in/juancarloscancela
