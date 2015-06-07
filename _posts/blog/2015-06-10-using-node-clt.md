@@ -23,9 +23,8 @@ Let's create a simple CLT app:
  * Create a directory ´cltool´
  * Run ´npm init´ to create a package.json file
  * Replace content of package.json with following data:
- 
- {% highlight javascript %}
- {
+ ´
+  {
    "name": "cltool",
    "version": "1.0.0",
    "description": "searches for files",
@@ -35,11 +34,9 @@ Let's create a simple CLT app:
    "bin": {
      "filesearch": "index.js"
    }
- {% highlight javascript %}
- 
+ ´
  * Create a file index.js
- 
- {% highlight javascript %}
+ ´
    #! /usr/bin/env node
  
    var applicationArguments = process.argv.splice(2);
@@ -50,8 +47,7 @@ Let's create a simple CLT app:
    var child = exec(command, function(err, stdout, stderr) {
      console.log(stdout);
    });
- {% highlight javascript %}
- 
+ ´
  * Finally, execute *npm link* to create a symlink to the command line application
  
  
