@@ -57,7 +57,7 @@ Let's create a simple CLT app:
  
 #### Example code 
 
-Code used in this article is available in my github account -> https://github.com/juancancela/jcw-clnt
+Code used in this article is available in this [repo]: https://github.com/juancancela/jcw-clnt
 
 
 
