@@ -37,9 +37,9 @@ Let's create a simple CLT app:
    }
  {% endhighlight %}
  
- In ##name##, it is defined the name of the command line tool
+ In **name**, it is defined the name of the command line tool
  
- In ##bin##, it is established the file to be executed when command is invoked
+ In **bin**, it is established the file to be executed when command is invoked
  
  * Create a file index.js
  
@@ -56,13 +56,13 @@ Let's create a simple CLT app:
    });
  {% endhighlight %}
  
- In ####1 it is defined node to run the script
+ In **1** it is defined node to run the script
  
- In ####2 user provided arguments are obtained
+ In **2** user provided arguments are obtained
  
- In ####3 is created the command to be executed (using user provided args)
+ In **3** is created the command to be executed (using user provided args)
  
- In ####4 we execute the given command
+ In **4** we execute the given command
  
  
  * Finally, execute *npm link* to create a symlink to the command line application
