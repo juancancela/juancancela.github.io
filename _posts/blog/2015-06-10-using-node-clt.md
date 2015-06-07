@@ -40,24 +40,34 @@ Let's create a simple CLT app:
  * Create a file index.js
  
  {% highlight javascript %}
-   #! /usr/bin/env node
+   #! /usr/bin/env node  //1
  
-   var applicationArguments = process.argv.splice(2);
+   var applicationArguments = process.argv.splice(2); //2
    var userInput = applicationArguments[0];
-   var command = 'ls -a | grep ' + userInput;
+   var command = 'ls -a | grep ' + userInput; //3
  
-   var exec = require('child_process').exec;
-   var child = exec(command, function(err, stdout, stderr) {
+   var exec = require('child_process').exec; //4
+   var child = exec(command, function(err, stdout, stderr) { 
      console.log(stdout);
    });
  {% endhighlight %}
  
+ In *1* it is defined node to run the script
+ In *2* user provided arguments are obtained
+ In *3* is created the command to be executed (using user provided args)
+ In *4* we execute the given command
+ 
  * Finally, execute *npm link* to create a symlink to the command line application
+ 
+
+#### Using CLT
+
+From command line, try executing the recently created command; in example; ´cltool package.json´
  
  
 #### Example code 
 
-Code used in this article is available in this [repo]: https://github.com/juancancela/jcw-clnt
+Code used in this article is available in this [repo](https://github.com/juancancela/jcw-clnt)
 
 
 
