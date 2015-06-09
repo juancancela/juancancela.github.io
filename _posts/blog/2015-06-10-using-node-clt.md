@@ -25,7 +25,7 @@ Let's create a simple CLT app:
  * Replace content of package.json with following data:
  
  {% highlight javascript %}
-  {
+   {
    "name": "cltool",
    "version": "1.0.0",
    "description": "searches for files",
@@ -44,7 +44,8 @@ Let's create a simple CLT app:
  * Create a file index.js
  
  {% highlight javascript %}
-   #! /usr/bin/env node  //1
+   
+     #! /usr/bin/env node  //1
  
    var applicationArguments = process.argv.splice(2); //2
    var userInput = applicationArguments[0];
