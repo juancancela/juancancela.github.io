@@ -19,7 +19,7 @@ and was presented with a fun coding challenge:
 
 The "value" of a word is the sum of the value of each of its characters.
 The "value" of a character is the product of the position of the character in the work by the position in the alphabet.
-IE, the value of "abc" is (1*1) + (2*3) + (3*2)
+IE, the value of "abc" is (1 x 1) + (2 x 3) + (3 x 2)
 
 What is the value of permutations of word "kTBXJJU"?
 
