@@ -18,7 +18,7 @@ scripting is a reasonable option.
  
 ####Creating a simple node app to be used as CLT
 
-Let's create a simple CLT app:
+Let's create a simple CLT app that to send mails using command line:
  
  * Create a directory ´cltool´
  * Run ´npm init´ to create a package.json file
@@ -26,14 +26,21 @@ Let's create a simple CLT app:
  
  {% highlight javascript %}
    {
-   "name": "cltool",
-   "version": "1.0.0",
-   "description": "searches for files",
-   "author": "Juan Carlos Cancela",
-   "license": "ISC",
-   "preferGlobal": true,
-   "bin": {
-     "filesearch": "index.js"
+     "name": "heyhey",
+     "version": "1.0.0",
+     "description": "sends a mail. Usage: 'heyhey <mail@mail.com> <subject> <message>'",
+     "scripts": {
+       "test": "echo \"Error: no test specified\" && exit 1"
+     },
+     "author": "Juan Carlos Cancela",
+     "license": "MIT",
+     "preferGlobal": true,
+     "bin": {
+       "heyhey": "heyhey.js"
+     },
+     "dependencies": {
+       "nodemailer": "*"
+     }
    }
  {% endhighlight %}
  
@@ -41,20 +48,22 @@ Let's create a simple CLT app:
  
  In **bin**, it is established the file to be executed when command is invoked
  
- * Create a file index.js
+ * Create a file heyhey.js
  
  {% highlight javascript %}
-   
-     #! /usr/bin/env node  //1
- 
-   var applicationArguments = process.argv.splice(2); //2
-   var userInput = applicationArguments[0];
-   var command = 'ls -a | grep ' + userInput; //3
- 
-   var exec = require('child_process').exec; //4
-   var child = exec(command, function(err, stdout, stderr) { 
-     console.log(stdout);
-   });
+   #! /usr/bin/env node
+
+   var userArgs = process.argv.splice(2);
+   var to = userArgs[0];
+   var subject = userArgs[1];
+   var message = userArgs[2];
+
+   var mailOptions = { from: 'cancela.juancarlos@gmail.com', to: to, subject: subject, text: message, html: '<b>'+message+'</b>'};
+   var transporter = require('nodemailer').createTransport({ service: 'Gmail', auth: { user: 'cancela.juancarlos@gmail.com', pass: 'XXXXX'}});
+
+   transporter.sendMail(mailOptions, function(error, info){
+      error ? console.log(error) : console.log('Message sent: ' + info.response);}
+   );
  {% endhighlight %}
  
  In **1** it is defined node to run the script
@@ -71,7 +80,7 @@ Let's create a simple CLT app:
 
 #### Using CLT
 
-From command line, try executing the recently created command; in example; ´cltool package.json´
+From command line, try executing the recently created command; in example; ´heyhey "mail@gmail.com" "hi!" "hey how are you!"´
  
  
 #### Example code 
