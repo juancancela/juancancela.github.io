@@ -8,7 +8,7 @@ categories:
 - javascript
 - integration
 - nodeJS
-img: mini_drom.png
+img: mini_drom.png {: .center-image }
 thumb: code.jpg
 ---
 
