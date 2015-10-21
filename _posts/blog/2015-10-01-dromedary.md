@@ -8,7 +8,7 @@ categories:
 - javascript
 - integration
 - nodeJS
-img: dromedary_grey.jpg
+img: mini_drom.png
 thumb: code.jpg
 ---
 
