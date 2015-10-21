@@ -8,7 +8,7 @@ categories:
 - javascript
 - integration
 - nodeJS
-img: dromedary_logo.png {: .center-image }
+img: dromedary_logo.png
 thumb: code.jpg
 ---
 
