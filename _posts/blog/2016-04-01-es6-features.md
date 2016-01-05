@@ -7,7 +7,7 @@ categories:
 - blog
 - javascript
 - coding
-img: js.png
+img: js.jpg
 thumb: code.jpg
 ---
 
