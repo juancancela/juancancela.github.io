@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75d40df4-88d4-4c1e-ba15-471759acee05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/blog/2016-26-01-toy-robot.md" afterPath="$PROJECT_DIR$/_posts/blog/2016-26-01-toy-robot.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/blog/2016-26-01-toy-robot.md" afterPath="$PROJECT_DIR$/_posts/blog/2016-12-01-toy-robot.md" />
     </list>
     <ignored path="juancancela.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-26-01-toy-robot.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/blog/2016-26-01-toy-robot.md">
+      <file leaf-file-name="2016-12-01-toy-robot.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/blog/2016-12-01-toy-robot.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06955178">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.51004636">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -782,10 +782,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/blog/2016-26-01-toy-robot.md">
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2016-12-01-toy-robot.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06955178">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.51004636">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding />
         </state>
       </provider>
