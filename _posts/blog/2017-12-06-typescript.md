@@ -6,6 +6,7 @@ author: Juan Carlos Cancela
 categories: 
 - blog
 - javascript
+- typescript
 - coding
 img: 2017-12-06-typescript-cover.png
 thumb: ts.jpg
