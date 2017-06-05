@@ -5,7 +5,6 @@ date: 2017-4-06 16:54:46
 author: Juan Carlos Cancela
 categories: 
 - blog
-- typescript
 - javascript
 - coding
 img: 2017-12-06-typescript-cover.png
