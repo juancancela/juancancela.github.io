@@ -15,6 +15,7 @@ thumb: ts.jpg
 
 During a project I was working on a couple of months ago, I got the opportunity to work for my very first time with Typescript.
 
+
 Typescript is a language that "basically formalizes a static type system that describes JavaScript's dynamic types, but it describes them at development time", as Anders Hejlsberg -creator of C# and Typescript itself- have said.
 
 
