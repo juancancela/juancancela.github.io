@@ -1,0 +1,24 @@
+---
+layout: project
+title:  "Globallogic"
+date:   2014-04-25 16:54:46
+author: Juan Carlos Cancela
+categories:
+- project
+img: portfolio_08.jpg
+thumb: thumb02.jpg
+carousel:
+- gl04.jpg
+- gl01.jpg
+- gl02.jpg
+- gl03.jpg
+website: http://www.globallogic.com
+---
+####Description
+Engineering Technical Leader
+
+####My Work
+
+* Provide technical support to multile GL's client projects
+* Define and implement GL market project proof of concepts
+* Provide guidance on Javascript related technologies 

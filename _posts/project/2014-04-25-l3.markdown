@@ -1,0 +1,22 @@
+---
+layout: project
+title:  "Level 3 Communications"
+date:   2014-04-25 16:54:46
+author: Juan Carlos Cancela
+categories:
+- project
+img: portfolio_01.jpg
+carousel:
+- lvl301.jpg
+- lvl302.gif
+- lvl303.jpg
+- lvl304.jpg
+- lvl305.jpg
+website: http://www.level3.com
+---
+####Description
+Software Integration Architect
+
+####My Work
+As Software Integration Architect at Level 3, my primary objective is to define both an integration strategy and a service oriented architecture, to integrate current Level 3 and Global Crossing software platforms, in order to provide support to newly required business processes.
+Apart from integration tasks, I provide guidance on framework developing, as well as definition of architecture roadmap for different platforms.

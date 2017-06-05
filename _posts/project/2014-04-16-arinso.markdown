@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "NorthgateArinso"
+date:   2014-04-25 16:54:46
+author: Juan Carlos Cancela
+categories:
+- project
+img: portfolio_09.jpg
+thumb: thumb02.jpg
+carousel:
+- arinso01.jpg
+website: http://arinso.com/
+---
+####Description
+IT Software Support
+
+####My Work
+Local support to employees and consultants. Configuration and administration of: Windows 2003 server, company backups, wireless and wired network, user permissions, firewalls, access cards.

@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Globant"
+date:   2014-04-25 16:54:46
+author: Juan Carlos Cancela
+categories:
+- project
+img: portfolio_04.jpg
+thumb: thumb02.jpg
+carousel:
+- globant01.jpg
+- globant02.jpg
+- globant03.jpg
+website: http://www.globant.com
+---
+####Description
+Java Developer
+
+####My Work
+Part of development team of PlayPhone's website backend, focused in the definition of domain model. Technologies used: Spring Core and Data, Hibernate, various unit and integration tests framewors (JUnit, EasyMock, Mockito, etc), workflow development using jBPM (JBoss workflow engine), logging (Log4J).

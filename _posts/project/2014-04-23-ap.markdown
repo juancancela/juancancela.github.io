@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "AnyPresence"
+date:   2014-04-25 16:54:46
+author: Juan Carlos Cancela
+categories:
+- project
+img: portfolio_02.jpg
+thumb: thumb02.jpg
+carousel:
+- ap01.png
+website: http://anypresence.com
+---
+####Description
+Sr. Javascript Developer
+
+####My Work
+* Development of mobile backend as a service (MBaaS) application generator.
+* Technologies used: NodeJS - SailsJS - ExpressJS - Ruby - Heroku - Docker - Postgres - MySQL - MongoDB

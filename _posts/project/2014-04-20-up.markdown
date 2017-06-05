@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Universidad De Palermo"
+date:   2014-04-25 16:54:46
+author: Juan Carlos Cancela
+carousel:
+- up01.jpg
+- up02.jpg
+categories:
+- project
+img: portfolio_05.jpg
+thumb: thumb02.jpg
+website: http://www.palermo.edu
+---
+
+####My Work
+* Researcher on Artificial Intelligence field. 
+* Worked for two years on an application that allows a robot to solve many puzzles throw image analysis. 
+* Worked on main project of the center, WIH, which is a conversational bot.

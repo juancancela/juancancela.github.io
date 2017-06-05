@@ -1,0 +1,25 @@
+---
+layout: project
+title:  "Sabre"
+date:   2014-04-25 16:54:46
+author: Juan Carlos Cancela
+categories:
+- project
+img: portfolio_03.jpg
+thumb: thumb02.jpg
+carousel:
+- sabre03.jpg
+- sabre02.jpg
+- sabre01.jpg
+- sabre04.jpg
+website: http://www.lastminute.co.uk
+---
+####Description
+Web Java Developer
+
+####My Work
+Developer at Travelocity (www.travelocity.co.uk).
+Currently I am working on the web-services and caching data layers.
+(J2SE, Spring Framework , Web services, Performance analysis)
+
+Initially, I had collaborated in UI team, working with dynamic programming technologies:  GDK (Groovy), Grails, GSPs (Groovy Server Pages) as well as well-known Javascript frameworks such as JQuery and script.aculo.us.
