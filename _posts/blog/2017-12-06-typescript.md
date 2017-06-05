@@ -233,7 +233,7 @@ let departmentRrepository = new PostgresSqlRepository<Department>();
 
 As you can see, you can think of generics as type placeholders.
 
-# Test project
+# Code Examples
 
 I have created a clean, Express Hello World app that you can use for any Typescript project. In this project, Webpack and Typescript are properly configured to transpile code to ES5 target: [repo](https://github.com/juancancela/ts-workshop-2017)
 
