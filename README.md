@@ -1,6 +1,6 @@
 Personal Site
 ============
-![Screenshot](https://dl.dropboxusercontent.com/u/3868882/juancancela.work.io/334ca3a.jpg)
+![Screenshot](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAseAAAAJDJjMDdjODU2LWRmYzktNGYxOS1hNzY3LTRhZDA0ZjE5MWRlYQ.jpg)
 
 ##Summary
 Motivated, action-oriented technology enthusiast with experience on multiple industries designing cutting-edge Web API-centric applications. 
