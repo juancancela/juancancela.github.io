@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi Sitio Personal</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://juancancela.github.io/posts/</link>
     <description>Recent content in Posts on Mi Sitio Personal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>cancela.juancarlos@gmail.com (Juan Carlos Cancela)</managingEditor>
     <webMaster>cancela.juancarlos@gmail.com (Juan Carlos Cancela)</webMaster>
-    <lastBuildDate>Fri, 11 Oct 2024 12:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://juancancela.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi Primer Post</title>
-      <link>http://localhost:1313/posts/mi-primer-post/</link>
+      <link>https://juancancela.github.io/posts/mi-primer-post/</link>
       <pubDate>Fri, 11 Oct 2024 12:00:00 +0200</pubDate>
       <author>cancela.juancarlos@gmail.com (Juan Carlos Cancela)</author>
-      <guid>http://localhost:1313/posts/mi-primer-post/</guid>
+      <guid>https://juancancela.github.io/posts/mi-primer-post/</guid>
       <description>&lt;p&gt;Este es el contenido de mi primer post usando Hugo.
 Este es el contenido de mi primer post usando Hugo.
 Este es el contenido de mi primer post usando Hugo.

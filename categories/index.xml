@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mi Sitio Personal</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://juancancela.github.io/categories/</link>
     <description>Recent content in Categories on Mi Sitio Personal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>cancela.juancarlos@gmail.com (Juan Carlos Cancela)</managingEditor>
-    <webMaster>cancela.juancarlos@gmail.com (Juan Carlos Cancela)</webMaster><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>cancela.juancarlos@gmail.com (Juan Carlos Cancela)</webMaster><atom:link href="https://juancancela.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
